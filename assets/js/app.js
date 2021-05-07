@@ -167,10 +167,12 @@ $(function () {
 
     responsive: {
       0: {
-        items: 1
+        items: 1,
+        stagePadding: 0,
       },
       600: {
-        items: 3
+        items: 1,
+        stagePadding: 0,
       },
       1000: {
         items: 3
